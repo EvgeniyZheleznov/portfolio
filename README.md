@@ -7,7 +7,7 @@
 | [Исследование данных сервиса "Яндекс.Музыка"](01_yandex.Music-data-research) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени (утро и вечер) и дня недели (понедельник, среда, пятница)| *Pandas* |
 |[Анализ банковских данных](02_analysis-of-bank)| Исследование влияния семейного положения и количества детей на факт погашения кредита в срок | *Python*, *Pandas* |
 |[Анализ рынка недвижимости](03_real-estate-analysis)| Определение рыночной стоимости объектов недвижимости разного типа | *Python*, *Pandas*, *Matplotlib* |
-|[Определение выгодного тарифа](04_determination-of-a-profitable-plan)|Анализ поведения клиентов и поиск оптимального тарифа|*Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*|
+|[Определение выгодного тарифа](04_determination-of-a-profitable-plan)|Анализ поведения клиентов и проверка гипотез|*Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*|
 |[Изучение закономерностей, определяющих успешность игр](05_determining-the-success-of-gaming-platforms)|Выявление закономерностей, определяющие успешность игры |*Python*, *Pandas*, *Matplotlib*, *NumPy*|
 |[Классификация коров](06_cow's-milk-yield)| |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[Интернет-магазин](07_store-customer)| |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
