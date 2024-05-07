@@ -9,7 +9,7 @@
 |[Анализ рынка недвижимости](03_real-estate-analysis)| Определение рыночной стоимости объектов недвижимости разного типа | *Python*, *Pandas*, *Matplotlib* |
 |[Определение выгодного тарифа](04_determination-of-a-profitable-plan)|Анализ поведения клиентов и проверка гипотез|*Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*|
 |[Изучение закономерностей, определяющих успешность игр](05_determining-the-success-of-gaming-platforms)|Выявление закономерностей, определяющие успешность игры |*Python*, *Pandas*, *Matplotlib*, *NumPy*|
-|[Классификация коров](06_cow's-milk-yield)| |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
+|[Прогноз удоя коров](06_cow's-milk-yield)|Прогнозировать возможный удой коровы и рассчитывать вероятность получения вкусного молока от коровы |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[Интернет-магазин](07_store-customer)| |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[HR-аналитика](08_predictions-the-employee-will-quit)| |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[Определение наиболее выгодного региона нефтедобычи](09_determining-the-most-profitable-oil-production-region)| На основе данных геологической разведки выбрать район добычи нефти|*Pandas*, *Scikit-learn*|
