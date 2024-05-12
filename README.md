@@ -9,10 +9,10 @@
 |[Анализ рынка недвижимости](03_real-estate-analysis)| Определение рыночной стоимости объектов недвижимости разного типа | *Python*, *Pandas*, *Matplotlib* |
 |[Определение выгодного тарифа](04_determination-of-a-profitable-plan)|Анализ поведения клиентов и проверка гипотез|*Python*, *Pandas*, *Matplotlib*, *NumPy*, *SciPy*|
 |[Изучение закономерностей, определяющих успешность игр](05_determining-the-success-of-gaming-platforms)|Выявление закономерностей, определяющие успешность игры |*Python*, *Pandas*, *Matplotlib*, *NumPy*|
-|[Прогноз удоя коров](06_cow's-milk-yield)|Прогнозировать возможный удой коровы и рассчитывать вероятность получения вкусного молока от коровы |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
+|[Прогноз удоя коров](06_cow's-milk-yield)|Прогноз возможного удойя коровы и рассчет вероятности получения вкусного молока от коровы |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[Интернет-магазин](07_store-customer)|Разработатка решения, которое позволит персонализировать предложения постоянным клиентам|*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
 |[HR-аналитика](08_predictions-the-employee-will-quit)|Оптимизация управление персоналом |*Python*, *Pandas*, *Matplotlib*, *Scikit-learn*|
-|[Определение наиболее выгодного региона нефтедобычи](09_determining-the-most-profitable-oil-production-region)| На основе данных геологической разведки выбрать район добычи нефти|*Pandas*, *Scikit-learn*|
+|[Определение наиболее выгодного региона нефтедобычи](09_determining-the-most-profitable-oil-production-region)| На основе данных геологической разведки выбран район добычи нефти|*Pandas*, *Scikit-learn*|
 |[Построение модели определения стоимости автомобиля](11_building-a-model-for-determining-the-cost-of-a-car)|Разработка системы рекомендации стоимости автомобиля на основе его описания|*Python, Pandas, LightGBM*|
 |[Прогнозирование количества заказов такси на следующий час](12_forecasting-the-number-of-taxi)|Разработка системы предсказания объема заказа|*Python, Pandas, Scikit-learn, statsmodels*|
 |[Обучение модели классификации комментариев](13_training-to-identify-negative-comments)|Определение токсичности комментарииев.|*Python, Pandas, Scikit-learn, statsmodels*|
