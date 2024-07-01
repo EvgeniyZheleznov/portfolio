@@ -16,5 +16,5 @@
 |[Построение модели определения стоимости автомобиля](11_building-a-model-for-determining-the-cost-of-a-car)|Разработка системы рекомендации стоимости автомобиля на основе его описания|*Python, Pandas, LightGBM*|
 |[Прогнозирование количества заказов такси на следующий час](12_forecasting-the-number-of-taxi)|Разработка системы предсказания объема заказа|*Python, Pandas, Scikit-learn, statsmodels*|
 |[Обучение модели классификации комментариев](13_training-to-identify-negative-comments)|Определение токсичности комментарииев.|*Python, Pandas, Scikit-learn, statsmodels*|
-|[Обработка фотографий покупателя](13_processing-of-customer's-photos)|Определение возраста по фотографии|*Python, Keras*|
+|[Обработка фотографий покупателя](14_processing-of-customer's-photos)|Определение возраста по фотографии|*Python, Keras*|
 |[Прогноз температуры стали во время плавки](14_steel-temperature-prediction-during-melting)|Прогноз температуры стали во время плавки|*Python, Pandas, Matplotlib, Scikit-learn, XGBoost, CatBoost*|# portfolio
